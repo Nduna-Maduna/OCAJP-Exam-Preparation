@@ -4,7 +4,7 @@ Practice for OCA Oracle Certified Associate Java SE 8 Programmer Exam 1Z0 808 (O
 
 Book Referenced:
 
-#### OCA Oracle Certified Associate Java SE 8 Programmer I by Jeanne Boyarsky and Scott Selikoff ####
+#### [OCA Oracle Certified Associate Java SE 8 Programmer I by Jeanne Boyarsky and Scott Selikoff](https://www.amazon.in/OCA-Certified-Associate-Programmer-1Z0-808-ebook/dp/B00R04DF3I?tag=googinhydr18418-21) ####
 
 #### Topics covered for the Exam from the [Oracle website](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808) ####
 

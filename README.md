@@ -6,7 +6,7 @@ Book Referenced:
 
 #### OCA Oracle Certified Associate Java SE 8 Programmer I by Jeanne Boyarsky and Scott Selikoff ####
 
-#### Topics covered for the Exam from the (Oracle website)[https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808] ####
+#### Topics covered for the Exam from the [Oracle website](https://education.oracle.com/pls/web_prod-plq-dad/db_pages.getpage?page_id=5001&get_params=p_exam_id:1Z0-808) ####
 
 Assume the following:
 
